@@ -36,7 +36,7 @@ https://www.aren.co.ke/payroll/taxrates.htmLinks to an external site.
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
 # Technologies Used
-The Student Grade Generator, Speed Detector, and Net Salary Calculator. The following languages and tools were used:
+The Student Grade Generator, Speed Detector, and Net Salary Calculator development used the following languages and tools:
 
 - VS Code
 - Git
