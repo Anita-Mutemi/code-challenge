@@ -1,4 +1,6 @@
 # code-challenge
+
+PROJECT SETUP
 Prerequisite
 1. Create a repository on your GitHub account.
 2. Use Javascript to wire down the solution.
