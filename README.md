@@ -56,8 +56,8 @@ The Student Grade Generator, Speed Detector, and Net Salary Calculator developme
 - JavaScript
 
 # Contact
-In case of any issues or questions regarding project, 
-you can reach out to the Moringa School website for support.
+Slack Profile - Anita Mutemi.
+Linked - Anita Mutemi.
 
 
 # Author & License
