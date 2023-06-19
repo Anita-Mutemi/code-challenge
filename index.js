@@ -7,13 +7,15 @@ function generateGrade() {
         "Anita": 85,
         "Taylor": 65,
         "Myly": -9,
-        //insert the name and grade here
+        //insert more names and grades here
     };
 
     for (let student in studentMarks) {
-
+        
+        // Retrieve the percentage for the current student
         let percentage = studentMarks[student];
 
+        // Determine the grade based on the percentage range
         if (percentage > 79 && percentage <= 100) {
             percentage = "A"
             console.log(`${student} got grade ${percentage}`);
