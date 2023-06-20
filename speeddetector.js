@@ -4,14 +4,14 @@
 
 function checkSpeed(speed) {
 
-    //speedLimit set to 70 km/h, which is the speed limit.
-    const speedLimit = 70;
+    //speedLimit set to 50 km/h, which is the speed limit.
+    const speedLimit = 50;
 
     // demeritPointsPerKm is set to 5, indicating the number of demerit points given for every 5 km/h above the speed limit.
-    const demeritPointsPerKm = 5;
+    const Points = 5;
 
     //maxDemeritPoints is set to 12, which represents the  limit on a scale for license suspension.
-    const maxDemeritPoints = 12;
+    const maxPoints = 12;
 
     if (speed <= speedLimit) {
         console.log("Ok");
