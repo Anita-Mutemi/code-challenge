@@ -11,15 +11,15 @@
 
 # Installation
 **Requirements**
-1. Either a computer,phone,tablet or an Ipad
-2. An access to the Internet
+1. Either a computer,phone, tablet or an Ipad
+2. access to the Internet
 
 **Installation Process**
 1. Create a repository on your GitHub account.
 2. Use Javascript to wire down the solution.
 3. Push the solution to the above repository once done.
 4. Submit the repository link for grading.
-5. Ensure your repository has a well written README.
+5. Ensure your repository has a well-written README.
 
 NOTE: You are required to complete ALL the challenges
 
